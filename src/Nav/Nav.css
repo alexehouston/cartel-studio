@@ -1,0 +1,18 @@
+.Nav {
+    letter-spacing: .2rem;
+    font-size: .9rem;
+    font-weight: 500;
+}
+
+.logo {
+    height: 4rem;
+}
+
+.nav-links {
+    transition: all .5s ease;
+}
+
+.nav-links:hover {
+    cursor: pointer;
+    color: rgb(135, 206, 235) !important;
+}
