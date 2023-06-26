@@ -26,4 +26,5 @@ li {
   position: absolute;
   object-fit: cover;
   z-index: 0;
+  /* filter: brightness(80%); */
 }
